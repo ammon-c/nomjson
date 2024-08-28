@@ -1,0 +1,6 @@
+// NOTES:
+//
+// This is the output from the URL:
+// http://epsg.io/?q=czech&format=json&trans=1&callback=jsonpFunction
+//
+// It has been formatted for readability.
